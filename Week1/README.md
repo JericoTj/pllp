@@ -1,4 +1,4 @@
 # Introduction to Git
 
 - Name : Jerico Tjan
-- ID : 2802521112# pllp
+- ID : 2802521112
